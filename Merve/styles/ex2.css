@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+table {
+	margin : 1rem auto;
+}
+table td{
+	text-align    : center;
+	width         : 10rem;
+	border        : 1px solid grey;
+	border-radius : 5px;
+	padding       : 0.5rem;
+}
+
+/* section h4{
+	font-size: 230px;
+	justify-content: center;
+  	align-items: center;
+	text-align: center;
+	color:#800080;
+	text-decoration: none;
+} */
+
+section .infos {
+	display: inline-block;
+	justify-content: center;
+  	align-items: center;
+	margin-left: 25px;
+}
+
+section .infos img{
+	width: 70px;
+	height: 70px;
+}
+
+section{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+section button{
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+	margin-top: 20px;
+	margin-left: 45%;
+	margin-right: 35%;
+}
+
+section .rating a{
+	text-decoration: none;
+	width: 50%;
+}
+
+
+section #timer {
+	font-weight: bold;
+	font-size: 4em;
+}
+
+.styled {
+	border: 0;
+	line-height: 2.5;
+	padding: 0 20px;
+	font-size: 1rem;
+	text-align: center;
+	color: #fff;
+	text-shadow: 1px 1px 1px #000;
+	border-radius: 10px;
+	background-color: 	#D8BFD8;
+	background-image: linear-gradient(
+	  to top left,
+	  rgba(0, 0, 0, 0.2),
+	  rgba(0, 0, 0, 0.2) 30%,
+	  rgba(0, 0, 0, 0)
+	);
+	box-shadow:
+	  inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+	  inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+  }
+  
+  .styled:hover {
+	background-color: #800080;
+  }
+  
+  .styled:active {
+	box-shadow:
+	  inset -2px -2px 3px rgba(255, 255, 255, 0.6),
+	  inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+  }
+
+/* ------------------------------------------------------------- */

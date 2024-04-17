@@ -1,5 +1,6 @@
 # Merve
-![Rapport de stage entreprise professionnel minimaliste bleu (1)](https://github.com/sainth-nathan-ahoussi/Merve/assets/148043415/a5566865-9a48-466f-8556-aad918201740)
+![Rapport de stage entreprise professionnel minimaliste bleu (1)](https://github.com/sainth-nathan-ahoussi/Merve/assets/148043415/09ab43ba-8ff1-4df3-b3b9-f85221a1ef01)
+
 
 ## Description
 **Contexte:** est un jeu de puzzle mobile compétitif et tour par tour où le but est de deviner un mot caché lettre par lettre. Chaque joueur tente de placer une lettre à chaque tour, disposant de 5 cœurs au début de la partie. Faire une erreur coûte un cœur ou un demi-cœur. Le joueur qui a le plus de cœurs restants à la fin du jeu, lorsque le mot est complètement révélé, remporte la partie.
